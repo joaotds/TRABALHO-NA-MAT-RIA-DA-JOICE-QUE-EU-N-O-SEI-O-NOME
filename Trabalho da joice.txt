@@ -1,0 +1,37 @@
+DOS é o sistema operacional Disk Operating System (Sistema Operacional de Disco) que foi utilizado nos computadores pessoais nos anos 80 e início dos anos 90. Ele forneceu uma interface de linha de comando para acessar os arquivos e pastas do disco rígido.
+
+O Prompt de Comando do Windows é uma ferramenta de linha de comando que permite que os usuários execute comandos e scripts no sistema operacional Windows. Para abrir o prompt de comando, você pode pressionar a tecla Windows + R e digitar "cmd" e pressionar Enter.
+
+No Windows, as unidades de partição são gerenciadas através do utilitário de gerenciamento de disco, que é acessado através do prompt de comando ou do painel de controle. Ele permite criar, excluir, formatar e redimensionar partições, bem como verificar e reparar problemas de disco.
+
+Para acessar a unidade C no Windows, você pode clicar no botão Iniciar e digitar "Unidade C" na caixa de pesquisa. Você também pode clicar no botão Windows + E para abrir o Explorador de arquivos e clicar na unidade C no painel esquerdo.
+
+PROMPT: Altera a aparência do prompt de comando.
+CMD: Inicia o interpretador de comandos do Windows.
+CD: Altera o diretório de trabalho atual.
+DATE: Exibe ou altera a data do sistema.
+TIME: Exibe ou altera o horário do sistema.
+VER: Exibe a versão do sistema operacional.
+HELP: Exibe ajuda para comandos do prompt de comando.
+DIR: Exibe o conteúdo de um diretório.
+CLS: Limpa a tela do prompt de comando.
+MKDIR ou MD: Cria um novo diretório.
+CHDIR ou CD: Altera o diretório de trabalho atual.
+RMDIR ou RD: Remove um diretório vazio.
+RENAME ou REN: Renomeia um arquivo ou diretório.
+MOVE: Move um arquivo ou diretório de um lugar para outro.
+TYPE: Exibe o conteúdo de um arquivo de texto.
+COPY: Copia um arquivo ou diretório para outro lugar.
+TREE: Exibe a estrutura de diretórios em forma de árvore.
+MEM: Exibe informações sobre o uso de memória.
+TITLE: Altera o título da janela do prompt de comando.
+SET: Exibe ou altera variáveis de ambiente no prompt de comando do Windows.
+ECHO: Mostra uma mensagem ou o estado de uma variável de ambiente no prompt de comando.
+IF: Permite a execução de comandos condicionalmente, dependendo da avaliação de uma expressão.
+ELSE: Fornece uma ação alternativa a ser executada se a expressão avaliada pelo comando IF for falsa.
+COPY CON: Copia o conteúdo digitado no prompt de comando para um arquivo.
+EXIT: Encerra o interpretador de comandos do Windows (cmd.exe).
+CHKDSK: Verifica e corrige erros no disco rígido.
+FORMAT: Formata uma unidade de disco.
+UNFORMAT: Tentar recuperar arquivos de uma unidade formatada, mas não garante recuperação de 100%.
+DELETE: Exclui um arquivo ou pasta.
