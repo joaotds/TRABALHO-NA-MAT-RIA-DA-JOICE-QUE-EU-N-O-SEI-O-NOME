@@ -35,3 +35,11 @@ CHKDSK: Verifica e corrige erros no disco rígido.
 FORMAT: Formata uma unidade de disco.
 UNFORMAT: Tentar recuperar arquivos de uma unidade formatada, mas não garante recuperação de 100%.
 DELETE: Exclui um arquivo ou pasta.
+HOSTNAME: Exibe o nome da máquina local.
+IPCONFIG: Mostra as configurações de rede do computador.
+GETMAC: Exibe o endereço MAC (identificação física) da placa de rede.
+PATHPING: Testa a disponibilidade e a velocidade de uma conexão de rede.
+NSLOOKUP: Busca informações de DNS para um nome de host ou endereço IP.
+NETSTAT: Exibe informações sobre as conexões de rede ativas no computador.
+PING: Testa a conectividade de rede para outro dispositivo.
+ROUTE: Mostra ou altera a tabela de roteamento do computador
